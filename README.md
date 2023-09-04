@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Домашнє завдання 1
 
 ## Крок 1
@@ -217,3 +218,6 @@ yarn add nanoid@3.3.4
 npm run dev
 
 yarn dev
+=======
+# goit-nodejs-homework01
+>>>>>>> 3073b7b024944a6d5208dcfbf34807b6fc76db25
